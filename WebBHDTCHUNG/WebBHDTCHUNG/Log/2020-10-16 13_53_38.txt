@@ -1,0 +1,3 @@
+2020-10-16 13:52:39.0165 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-10-16 13:52:39.1104 WebBHDTCHUNG.Controllers.HomeController 
+2020-10-16 13:53:38.6163 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT 84965433459 1 1 BHDT G7 TEST

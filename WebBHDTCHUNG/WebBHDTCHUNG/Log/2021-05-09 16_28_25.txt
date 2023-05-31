@@ -1,0 +1,20 @@
+2021-05-09 16:13:20.6559 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-05-09 16:13:20.6999 WebBHDTCHUNG.Controllers.HomeController 
+2021-05-09 16:16:49.4198 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-05-09 16:16:49.4498 WebBHDTCHUNG.Controllers.HomeController 
+2021-05-09 16:18:46.1194 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-05-09 16:18:46.1564 WebBHDTCHUNG.Controllers.HomeController 
+2021-05-09 16:20:19.9996 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-05-09 16:20:20.0366 WebBHDTCHUNG.Controllers.HomeController 
+2021-05-09 16:22:14.6824 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-05-09 16:22:14.7194 WebBHDTCHUNG.Controllers.HomeController 
+2021-05-09 16:22:55.7771 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-05-09 16:22:55.8431 WebBHDTCHUNG.Controllers.HomeController 
+2021-05-09 16:24:22.2031 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT 0965433459 1 1 BHDT TEKA TC 115
+2021-05-09 16:24:23.8372 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Tin nhan khong dung cu phap
+2021-05-09 16:27:18.8299 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-05-09 16:27:18.8648 WebBHDTCHUNG.Controllers.HomeController 
+2021-05-09 16:27:49.2851 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":[""],"Status":1,"Message":"OK"}
+2021-05-09 16:28:03.3118 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":[""],"Status":1,"Message":"OK"}
+2021-05-09 16:28:18.0576 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":[""],"Status":1,"Message":"OK"}
+2021-05-09 16:28:25.0627 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":["http://onlinewarranty.tekavietnam.com/"],"Status":1,"Message":"OK"}

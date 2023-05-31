@@ -1,0 +1,147 @@
+2021-06-09 11:26:52.3094 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-09 11:26:52.3604 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-09 11:26:59.8530 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT    BHDT CA TC ABC
+2021-06-09 11:35:06.9992 WebBHDTCHUNG.ReceviceMo.ApiReceviceController The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.
+2021-06-09 11:35:10.0511 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT    BHDT CA TC ABC
+2021-06-09 11:36:28.7009 WebBHDTCHUNG.ReceviceMo.ApiReceviceController The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.
+2021-06-09 11:37:03.9721 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-09 11:37:04.0051 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-09 11:37:12.6687 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT    BHDT CA TC ABC
+2021-06-22 16:58:40.3405 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-22 16:58:40.3975 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-22 17:13:59.9073 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-22 17:13:59.9572 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-22 17:26:08.1601 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-22 17:26:08.2200 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-22 17:28:16.4975 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-22 17:28:16.5635 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-22 17:31:39.9622 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-22 17:31:39.9972 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-22 17:37:51.9769 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 0965433459 @Service_ID= 1 @Request_ID= 1 @Message= BHDT TEKA TC 115
+2021-06-22 17:39:31.6223 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Tin nhan khong dung cu phap
+2021-06-22 17:39:31.6223 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MT] @Command_Code= BHDT @User_ID= 0965433459 @Service_ID= 1 @Request_ID= 1 @Message= System.Net.Http.StringContent
+2021-06-22 17:44:31.3456 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= BHDT TVG NN3358UTY
+2021-06-22 17:44:35.1718 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+2021-06-22 17:44:35.1718 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MT] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= System.Net.Http.StringContent
+2021-06-22 17:44:54.2575 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= BHDT TVG NN3358UTY
+2021-06-22 17:46:11.7128 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+2021-06-22 17:46:11.7128 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MT] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= System.Net.Http.StringContent
+2021-06-22 17:46:15.5924 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= BHDT TVG NN3358UTY
+2021-06-22 17:47:48.0553 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= BHDT TVG NN3358UTY
+2021-06-22 17:47:55.4481 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+2021-06-22 17:47:55.4481 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MT] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= System.Net.Http.StringContent
+2021-06-22 17:49:38.5162 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+2021-06-22 17:49:38.5162 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MT] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= System.Net.Http.StringContent
+2021-06-22 17:49:48.8468 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= BHDT TVG NN3358UTY
+2021-06-22 17:50:01.0581 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+2021-06-22 17:50:01.0581 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MT] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= System.Net.Http.StringContent
+2021-06-22 17:52:04.5139 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= BHDT TVG NN3358UTY
+2021-06-22 17:55:33.2906 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+2021-06-22 17:55:33.2906 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MT] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= System.Net.Http.StringContent
+2021-06-22 17:59:55.7065 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-22 17:59:55.7555 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-22 18:00:04.8464 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= BHDT TVG NN3358UTY
+2021-06-22 18:10:07.1559 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-22 18:10:07.2228 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-22 18:10:24.6693 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= BHDT TVG NN3358UTY
+2021-06-22 18:10:32.1214 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+2021-06-22 18:10:32.1214 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MT] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= System.Net.Http.StringContent
+2021-06-22 18:25:20.7026 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-22 18:25:20.7646 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-22 18:25:51.0850 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= BHDT TVG NN3358UTY
+2021-06-23 08:56:49.5826 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-23 08:56:49.6226 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-23 09:01:37.9735 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-23 09:01:38.0075 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-23 09:01:42.3002 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= BHDT TVG NN3358UTY
+2021-06-23 09:15:17.9550 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-23 09:15:18.0119 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-23 09:15:26.8717 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= BHDT TVG NN3358UTY
+2021-06-23 09:15:30.8028 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MT] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= 12345 @Message= San pham Bep gas cao cap serial NN3358UTY da kich hoat truoc do tu ngay 22/06/2021 den ngay 22/06/2023. Cam on QK
+2021-06-23 09:17:06.8400 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-23 09:17:06.8929 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-23 10:27:04.6074 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-23 10:27:04.6783 WebBHDTCHUNG.Controllers.HomeController 8b872a17-1966-4f1d-a293-84ee7a181a51
+2021-06-24 17:36:31.3551 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 17:36:31.3900 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-24 17:48:09.1619 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 17:48:09.2059 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-24 18:10:10.0045 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:10:10.0434 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 18:18:14.1544 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:18:14.2004 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 18:19:59.8386 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:19:59.8726 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 18:29:58.7888 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:29:58.8507 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 18:33:40.4870 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:33:40.5209 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 18:35:29.1287 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:35:29.1287 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 18:35:50.7819 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:35:50.7819 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-24 18:36:13.6559 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:36:13.6559 WebBHDTCHUNG.Controllers.HomeController 045f893a-0b87-4f66-9711-9faabcc6c910
+2021-06-24 18:37:06.6126 WebBHDTCHUNG.Controllers.ActiveController ECOD1 Võ Ð?c Trung 84912345687 Qu?ng Bình Ð?ng H?i Hoàng Minh Giám  
+2021-06-24 18:38:14.3560 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:38:14.3560 WebBHDTCHUNG.Controllers.HomeController 045f893a-0b87-4f66-9711-9faabcc6c910
+2021-06-24 18:39:26.3735 WebBHDTCHUNG.Controllers.WarrantiController ECOD3 Trung Vo Duc 84902866545 Son La Qu?nh Nhai Ph? Trung Kính S?n ph?m l?i 
+2021-06-24 18:39:29.4864 WebBHDTCHUNG.Controllers.WarrantiController not valid
+2021-06-24 18:40:07.4933 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:40:07.4933 WebBHDTCHUNG.Controllers.HomeController 045f893a-0b87-4f66-9711-9faabcc6c910
+2021-06-24 18:40:13.5016 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:40:13.5016 WebBHDTCHUNG.Controllers.HomeController 045f893a-0b87-4f66-9711-9faabcc6c910
+2021-06-24 18:40:22.7508 WebBHDTCHUNG.Controllers.SearchController ECOD1
+2021-06-24 18:40:22.7508 WebBHDTCHUNG.Controllers.SearchController serial not active
+2021-06-24 18:40:29.8814 WebBHDTCHUNG.Controllers.SearchController ECOD1
+2021-06-24 18:40:29.8924 WebBHDTCHUNG.Controllers.SearchController serial not active
+2021-06-24 18:48:12.6710 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:48:12.7370 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 18:50:35.5791 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:50:35.5791 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 18:51:39.4317 WebBHDTCHUNG.Controllers.ActiveController ECOD1 Mai 849666666666 Hà Giang Ð?ng Van Ph? Trung Kính  ductrungbka1@gmail.com
+2021-06-24 18:53:18.7575 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 18:53:18.7934 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 18:53:59.2805 WebBHDTCHUNG.Controllers.ActiveController ECOD1 HU?nh Công Tu?n 849444444444 Qu?ng Nam Tam K?   
+2021-06-24 18:56:10.1427 WebBHDTCHUNG.Controllers.ActiveController ECOD1 Trung 84902866555 Qu?ng Ngãi Trà B?ng   
+2021-06-24 18:58:41.9568 WebBHDTCHUNG.Controllers.ActiveController active ok
+2021-06-24 19:16:59.4633 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 19:16:59.5263 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 19:17:43.8946 WebBHDTCHUNG.Controllers.WarrantiController ECOD1 Võ Ð?c Trung 84902866568 Qu?ng Nam Tam K? 91 Trung Kính H?ng 
+2021-06-24 19:18:06.6000 WebBHDTCHUNG.Controllers.WarrantiController warranti ok
+2021-06-24 19:35:18.3849 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 19:35:18.4479 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 19:45:52.1891 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 19:45:52.2500 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 19:52:01.2103 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 19:52:01.2692 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 19:57:24.1773 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 19:57:24.2553 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 20:01:22.6917 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 20:01:22.7417 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 20:08:06.1013 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 20:08:06.1692 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 20:09:43.3867 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 20:09:43.4327 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 20:17:19.4210 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 20:17:19.4810 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-24 20:19:27.3728 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-24 20:19:27.5167 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-25 14:19:17.9934 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-25 14:19:18.2603 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-25 14:25:39.8653 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-25 14:25:39.9013 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-25 14:28:01.6022 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-25 14:28:01.6422 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-25 14:32:13.8569 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-25 14:32:13.8969 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4
+2021-06-25 14:35:04.3127 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= GPC77309648567 @Message= BHDT ECOD ECOD1 0912345678
+2021-06-25 14:35:16.2377 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Command_Code=BHDT ECOD
+2021-06-25 14:35:16.2637 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [AGENT] S? di?n tho?i khách hàng: 84912345678
+2021-06-25 14:35:16.6135 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MT] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= GPC77309648567 @Message= San pham serial Dieu hoa da kich hoat thanh cong tu ngay ECOD1 den ngay 25/06/2021. Lien he CSKH 02473001158 de duoc ho tro. Cam on quy khach
+2021-06-25 14:36:03.7345 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MO] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= GPC77309648567 @Message= BHDT ECOD ECOD1 0912345678
+2021-06-25 14:36:07.7651 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Command_Code=BHDT ECOD
+2021-06-25 14:37:41.6458 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [AGENT] S? di?n tho?i khách hàng: 84912345678
+2021-06-25 14:38:05.3676 WebBHDTCHUNG.ReceviceMo.ApiReceviceController [MT] @Command_Code= BHDT @User_ID= 84902866568 @Service_ID= 8077 @Request_ID= GPC77309648567 @Message= San pham serial Dieu hoa da kich hoat thanh cong tu ngay ECOD1 den ngay 25/06/2021. Lien he CSKH 02473001158 de duoc ho tro. Cam on quy khach
+2021-06-25 14:49:22.4804 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-25 14:49:22.5314 WebBHDTCHUNG.Controllers.HomeController 6d650389-b2c1-4d57-a10d-e760dd9feae4

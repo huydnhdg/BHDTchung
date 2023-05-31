@@ -1,0 +1,149 @@
+﻿@model PagedList.IPagedList<WebBHDTCHUNG.Models.BaoHanhModel>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+    int index = 0;
+    List<WebBHDTCHUNG.Models.AspNetUser> keywar = (List<WebBHDTCHUNG.Models.AspNetUser>)TempData["keywar"];
+    List<WebBHDTCHUNG.Models.AspNetUser> user = (List<WebBHDTCHUNG.Models.AspNetUser>)TempData["user"];
+}
+<style>
+    thead {
+        background-color: gainsboro;
+    }
+
+    th {
+        min-width: 100px;
+        text-align: center;
+    }
+
+    tr td p {
+        text-align: center;
+    }
+</style>
+<!-- /.row -->
+<div class="row">
+    <div class="panel-body">
+        <div class="table-responsive">
+            <table class="table table-hover" style="font-size:12px;">
+                <thead>
+                    <tr>
+                        <th style="min-width:20px">#</th>
+                        <th>Thời gian nhận</th>
+                        <th>Tên khách hàng</th>
+                        <th>Số điện thoại báo</th>
+                        <th style="min-width:150px">Địa chỉ</th>
+                        <th>Mã cào</th>
+                        <th>Đại lý bán</th>
+                        <th>Ngày hết hạn</th>
+                        <th>Tình trạng nhận</th>
+                        <th>Ghi chú</th>
+                        <th style="min-width:150px">Trạng thái</th>
+                        <th style="min-width:150px">Trạm BH</th>
+                        <th style="min-width:150px">Tên KTV</th>
+                        <th style="min-width:150px">Người phụ trách</th>
+                        <th style="min-width:130px">Loại dịch vụ</th>
+                        <th>Ngày hẹn khách</th>
+                        <th>Giải pháp</th>
+                        <th>Yêu cầu xử lý</th>
+                        <th>Phí dịch vụ</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        { index++; }
+                        <tr>
+                            <td style="display:none">@Html.DisplayFor(modelItem => item.Id)</td>
+                            <td>@index</td>
+                            <td>@item.Createdate</td>
+                            <td>@item.CusName</td>
+                            <td>@item.PhoneWarranti</td>
+                            <td>@item.Address</td>
+                            <td>@item.Serial</td>
+                            <td></td>
+                            <td>
+                                @if (item.Activedate != null)
+                                {
+                                    @Convert.ToDateTime(item.Activedate.Value.AddMonths(item.Limited ?? default(int))).ToString("dd/MM/yyyy")
+                                }
+                            </td>
+                            <td>@item.Note</td>
+                            <td>@item.Category</td>
+                            <td>
+                                @if (item.Status == 0)
+                                {
+                                    <p class="btn-danger">Mới tiếp nhận</p>
+                                }
+                                else if (item.Status == 1)
+                                {
+                                    <p class="btn-warning">Đã chuyển xuống trạm</p>
+                                }
+                                else if (item.Status == 2)
+                                {
+                                    <p class="btn-warning">Trạm đã tiếp nhận</p>
+                                }
+                                else if (item.Status == 3)
+                                {
+                                    <p class="btn-warning">Trạm không tiếp nhận</p>
+                                }
+                                else if (item.Status == 4)
+                                {
+                                    <p class="btn-primary">Đang xử lý</p>
+                                }
+                                else if (item.Status == 5)
+                                {
+                                    <p class="btn-warning">Đem sản phẩm về trạm</p>
+                                }
+                                else if (item.Status == 6)
+                                {
+                                    <p class="btn-warning">Đang đợi linh kiện</p>
+                                }
+                                else if (item.Status == 7)
+                                {
+                                    <p class="btn-info">Chờ khách phản hồi</p>
+                                }
+                                else if (item.Status == 8)
+                                {
+                                    <p class="btn-success">Hoàn thành</p>
+                                }
+                                else if (item.Status == 9)
+                                {
+                                    <p class="btn-default">Hủy bỏ</p>
+                                }
+                            </td>
+                            <td>
+                                @Html.DropDownListFor(model => item.KeyWarranti, new SelectList(keywar, "UserName", "UserName", item.KeyWarranti), "-select key-", new { @class = "form-control" })
+                            </td>
+                            <td>@item.Fixer</td>
+                            <td>@Html.DropDownListFor(model => item.Checkby, new SelectList(user, "UserName", "UserName", item.Checkby), "-select user-", new { @class = "form-control" })</td>
+                            <td>
+                                @Html.DropDownListFor(model => item.CateService, new List<SelectListItem>
+                                                        {
+                                                        
+                                                        new SelectListItem { Value = "" , Text = "-select-" },
+                                                        new SelectListItem { Value = "Bảo hành" , Text = "Bảo hành" },
+                                                        new SelectListItem { Value = "Tính phí" , Text = "Tính phí" },
+                                                        new SelectListItem { Value = "Lắp đặt" , Text = "Lắp đặt" },
+                                                        
+                                                        },
+                                                        new { @class = "form-control" })
+
+                            </td>
+                            <td>
+                                @if (item.Waitdate != null)
+                                {
+                                    @Convert.ToDateTime(item.Waitdate).ToString("dd/MM/yyyy")
+                                }
+                            </td>
+                            <td>@item.Solution</td>
+                            <td>@item.Request</td>
+                            <td>@item.Fee</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <!-- /.table-responsive -->
+    </div>
+</div>
+<!-- /.row -->

@@ -1,0 +1,22 @@
+2020-11-17 17:01:56.4880 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-17 17:01:56.5329 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-18 08:57:05.0420 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-18 08:57:05.1159 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-18 09:49:28.3469 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-18 09:49:28.3839 WebBHDTCHUNG.Controllers.HomeController 8b872a17-1966-4f1d-a293-84ee7a181a51
+2020-11-18 10:14:59.6524 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-18 10:14:59.6524 WebBHDTCHUNG.Controllers.HomeController 8b872a17-1966-4f1d-a293-84ee7a181a51
+2020-11-18 14:28:30.1454 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-18 14:28:30.1934 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-18 14:29:12.1039 WebBHDTCHUNG.ReceviceMo.ApiReceviceController DL 84965433459 1 1 DL dl23
+2020-11-18 14:29:54.3212 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Kich hoat khong thanh cong. Kiem tra lai serial cua ban
+2020-11-18 14:33:56.0838 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-18 14:33:56.1188 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-18 14:34:31.5950 WebBHDTCHUNG.ReceviceMo.ApiReceviceController     
+2020-11-18 14:34:35.9912 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Khong dung Command_Code
+2020-11-18 14:34:59.3614 WebBHDTCHUNG.ReceviceMo.ApiReceviceController DL 84965433459 1 1 Dl dl23
+2020-11-18 14:44:37.3908 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-18 14:44:37.4317 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-18 14:54:48.4903 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-18 14:54:48.5223 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-18 14:57:09.3991 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT 84965433459 1 1 BHDT BS bls23

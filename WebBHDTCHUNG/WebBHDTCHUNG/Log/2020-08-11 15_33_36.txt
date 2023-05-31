@@ -1,0 +1,34 @@
+2020-08-06 16:50:46.1980 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-08-06 16:50:46.2955 WebBHDTCHUNG.Controllers.HomeController 
+2020-08-06 16:53:55.7434 WebBHDTCHUNG.ReceviceMo.ApiReceviceController bhdt 84965433459 1 1 bhdt gl kh 115 0965433459
+2020-08-06 16:54:36.2231 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-08-06 16:54:36.2701 WebBHDTCHUNG.Controllers.HomeController 
+2020-08-06 16:55:06.5676 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT 84965433459 1 1 bhdt gl kh 115 0965433459
+2020-08-07 09:52:44.4764 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-08-07 09:52:44.5124 WebBHDTCHUNG.Controllers.HomeController 8b872a17-1966-4f1d-a293-84ee7a181a51
+2020-08-07 09:52:53.4502 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-08-07 09:52:53.5122 WebBHDTCHUNG.Controllers.HomeController 8b872a17-1966-4f1d-a293-84ee7a181a51
+2020-08-07 09:53:02.5390 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT 84912573734 8077 GPC77214654831 bhdt gl 333
+2020-08-07 09:53:02.6539 WebBHDTCHUNG.ReceviceMo.ApiReceviceController So serial cua ban khong ton tai. Vui long kiem tra lai serial hoac truy cap http://kichhoat.baohanhdientu.vip/
+2020-08-07 09:53:12.5223 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT 84912573734 8077 GPC77214654831 bhdt gl 1212
+2020-08-07 09:53:12.5343 WebBHDTCHUNG.ReceviceMo.ApiReceviceController So serial cua ban khong ton tai. Vui long kiem tra lai serial hoac truy cap http://kichhoat.baohanhdientu.vip/
+2020-08-07 09:53:28.2093 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT 84912573734 8077 GPC77214654831 bhdt 1212
+2020-08-07 09:53:28.2153 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Tin nhan khong dung cu phap
+2020-08-07 16:17:57.8653 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-08-07 16:17:57.9432 WebBHDTCHUNG.Controllers.HomeController 
+2020-08-07 16:18:37.7408 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT 84912573734 8077 GPC77214654831 bhdt gl 333
+2020-08-07 16:18:54.8555 WebBHDTCHUNG.ReceviceMo.ApiReceviceController So serial cua ban khong ton tai. Vui long kiem tra lai serial hoac truy cap http://kichhoat.baohanhdientu.vip/
+2020-08-07 16:19:02.6550 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT 84912573734 8077 GPC77214654831 bhdt gl 123
+2020-08-07 16:21:31.0827 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-08-07 16:21:31.1547 WebBHDTCHUNG.Controllers.HomeController 
+2020-08-07 16:21:43.7077 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT 84912573734 8077 GPC77214654831 bhdt gl 123
+2020-08-10 10:47:53.7353 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-08-10 10:47:53.7902 WebBHDTCHUNG.Controllers.HomeController 
+2020-08-10 11:09:20.9717 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-08-10 11:09:21.0077 WebBHDTCHUNG.Controllers.HomeController 
+2020-08-10 11:25:51.2831 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-08-10 11:25:51.3141 WebBHDTCHUNG.Controllers.HomeController 
+2020-08-10 11:27:41.3966 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-08-10 11:27:41.4286 WebBHDTCHUNG.Controllers.HomeController 
+2020-08-11 15:33:36.5964 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-08-11 15:33:36.6594 WebBHDTCHUNG.Controllers.HomeController 

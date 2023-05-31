@@ -1,0 +1,152 @@
+﻿
+@{
+    ViewBag.Title = "Tra cứu";
+}
+<style>
+    
+</style>
+<div class="row main">
+    <div class="main-login main-center">
+        <h5 style="    font-size: 16px;">Thông Tin Bảo Hành / Warranty Status</h5>
+        <br />
+        <div>
+            <form>
+                <div class="form-group">
+                    <label for="name" class="cols-sm-2 control-label">Số Serial / Serial Number</label>
+                    <div class="cols-sm-10">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-barcode" aria-hidden="true"></i></span>
+                            <input name="serial" type="text" id="serial" class="form-control" placeholder="Nhập số serial" required />
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <div class="form-group ">
+                    <input type="button" name="send" value="Xác nhận / Submit" id="send" class="btn btn-success" style="width:100%;" />
+                </div>
+
+                <p id="txt-info" class="w3-animate-left alert alert-danger" style="display:none;"></p>
+
+                <table id="tbl-result" class="w3-animate-left alert alert-success" style="display:none;">
+                    <tr>
+                        <td>
+                            Tên sản phẩm: 
+                        </td>
+                        <td id="mname">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Số Serial: 
+                        </td>
+                        <td id="mserial">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Model: 
+                        </td>
+                        <td id="mmodel">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Thương hiệu: 
+                        </td>
+                        <td id="mtrade">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Ngày kích hoạt: 
+                        </td>
+                        <td id="mactive">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Hạn bảo hành: 
+                        </td>
+                        <td id="mlimited">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Ngày hết hạn: 
+                        </td>
+                        <td id="mend">
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+        <hr />
+        <div style="clear:both">
+
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+        var find = {
+            init: function () {
+                find.registerEvent();
+            },
+            registerEvent: function () {
+                $('#send').off('click').on('click', function () {
+                    alert("check");
+                    $("#txt-info").css("display", "none");
+                    $("#tbl-result").css("display", "none");
+
+                    var serial = $('#serial').val();
+                    if (serial.length < 2) {
+                        $("#txt-info").css("display", "block");
+                        $("#txt-info").text("Số serial không đúng.");
+                    }
+                    else {
+                        $.ajax({
+                            url: '/Search/GetProduct',
+                            type: 'POST',
+                            dataType: 'json',
+                            data: {
+                                serial: serial
+                            },
+                            success: function (ress) {
+                                var ob = $.parseJSON(ress);
+                                $("#txt-info").css("display", "block");
+                                $("#txt-info").text(ob.message);
+                                
+                                if (ob.prodActive != null) {
+                                    $("#tbl-result").css("display", "block");
+                                    $("#mname").text(ob.prodActive.Name);
+                                    $("#mserial").text(ob.prodActive.Serial);
+                                    $("#mmodel").text(ob.prodActive.Model);
+                                    $("#mtrade").text(ob.prodActive.MadeIn);
+                                    $("#mlimited").text(ob.prodActive.Limited + " tháng");
+                                    $("#mactive").text(dateFormat(new Date(parseInt((ob.prodActive.Activedate).match(/\d+/)[0]))));
+                                    $("#mend").text(dateFormat(addMonth(new Date(parseInt((ob.prodActive.Activedate).match(/\d+/)[0])), ob.prodActive.Limited)));
+                                }
+
+                                contact.resetForm();
+                            }
+                        });
+                    }                    
+                });
+            },
+            resetForm: function () {
+                $('#serial').val("");
+            }
+        }
+        find.init();
+        function dateFormat(d) {
+            console.log(d);
+            return ((d.getDate()) + "").padStart(2, "0")
+                + "/" + (d.getMonth() + 1 + "").padStart(2, "0")
+                + "/" + d.getFullYear();
+        }
+        function addMonth(dt, n) {
+            return new Date(dt.setMonth(dt.getMonth() + n));
+        }
+    </script>
+}

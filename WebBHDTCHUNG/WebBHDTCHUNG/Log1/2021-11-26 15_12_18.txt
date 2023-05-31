@@ -1,0 +1,14 @@
+2021-11-02 18:49:55.6916 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-11-02 18:49:55.7775 WebBHDTCHUNG.Controllers.HomeController 2bff1573-14b8-4d00-b22c-dbd93c44d2e7
+2021-11-02 19:19:49.0543 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-11-02 19:19:49.0950 WebBHDTCHUNG.Controllers.HomeController 2bff1573-14b8-4d00-b22c-dbd93c44d2e7
+2021-11-06 14:43:54.7670 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-11-06 14:43:54.8139 WebBHDTCHUNG.Controllers.HomeController 
+2021-11-26 15:10:34.6812 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-11-26 15:10:34.7491 WebBHDTCHUNG.Controllers.HomeController 
+2021-11-26 15:10:50.8762 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-11-26 15:10:50.8762 WebBHDTCHUNG.Controllers.HomeController 8b872a17-1966-4f1d-a293-84ee7a181a51
+2021-11-26 15:12:09.5931 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-11-26 15:12:09.6381 WebBHDTCHUNG.Controllers.HomeController 
+2021-11-26 15:12:18.9694 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-11-26 15:12:18.9694 WebBHDTCHUNG.Controllers.HomeController 8b872a17-1966-4f1d-a293-84ee7a181a51

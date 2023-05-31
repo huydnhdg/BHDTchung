@@ -1,0 +1,18 @@
+2020-09-12 09:54:58.3735 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-09-12 09:54:58.4394 WebBHDTCHUNG.Controllers.HomeController 
+2020-09-12 09:55:05.2936 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-09-12 09:55:05.2936 WebBHDTCHUNG.Controllers.HomeController 
+2020-09-16 14:09:48.9285 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-09-16 14:09:48.9684 WebBHDTCHUNG.Controllers.HomeController 
+2020-09-16 14:10:03.9427 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-09-16 14:10:03.9427 WebBHDTCHUNG.Controllers.HomeController 
+2020-09-16 14:10:12.1886 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT 84948620400 8077 GPC77227405156 BHDT_GL_BDAZ885VX
+2020-09-16 14:10:28.3394 WebBHDTCHUNG.ReceviceMo.ApiReceviceController Index was outside the bounds of the array.
+2020-09-21 11:17:48.7129 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-09-21 11:17:48.8108 WebBHDTCHUNG.Controllers.HomeController 
+2020-09-21 11:23:43.9206 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-09-21 11:23:43.9866 WebBHDTCHUNG.Controllers.HomeController 
+2020-09-21 13:52:35.2290 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-09-21 13:52:35.2989 WebBHDTCHUNG.Controllers.HomeController 
+2020-09-21 13:54:20.5740 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-09-21 13:54:20.6609 WebBHDTCHUNG.Controllers.HomeController 

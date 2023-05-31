@@ -1,0 +1,498 @@
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebBHDTCHUNG.dll.config
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebBHDTCHUNG.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebBHDTCHUNG.pdb
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csc.exe
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csc.exe.config
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csc.rsp
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csi.exe
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csi.exe.config
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csi.rsp
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.Managed.Core.targets
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.AppContext.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Collections.Immutable.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Console.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Globalization.Calendars.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.Compression.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.FileSystem.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Net.Http.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Net.Sockets.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Reflection.Metadata.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.ValueTuple.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.XmlDocument.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.XPath.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\vbc.exe
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\vbc.exe.config
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\vbc.rsp
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\VBCSCompiler.exe
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\VBCSCompiler.exe.config
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Antlr3.Runtime.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.SqlServer.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\EPPlus.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Core.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Cookies.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Facebook.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Google.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.OAuth.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Twitter.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Web.Infrastructure.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Newtonsoft.Json.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Owin.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.IO.Packaging.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Net.Http.Formatting.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Helpers.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.WebHost.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Mvc.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Optimization.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Razor.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Deployment.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Razor.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebGrease.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\EPPlus.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Helpers.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Mvc.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Optimization.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Razor.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Deployment.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Razor.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Newtonsoft.Json.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Antlr3.Runtime.pdb
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Net.Http.Formatting.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.WebHost.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.SqlServer.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Core.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Facebook.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Cookies.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Google.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Twitter.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.OAuth.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.csprojAssemblyReference.cache
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.csproj.CoreCompileInputs.cache
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.csproj.CopyComplete
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.pdb
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\NLog.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\NLog.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.Mvc.dll
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.xml
+E:\bluesea.net\baohanhdientu.xxx.vn\cms bhdt chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.Mvc.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebBHDTCHUNG.dll.config
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebBHDTCHUNG.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebBHDTCHUNG.pdb
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csc.exe
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csc.exe.config
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csc.rsp
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csi.exe
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csi.exe.config
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csi.rsp
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.Managed.Core.targets
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.AppContext.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Collections.Immutable.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Console.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Globalization.Calendars.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.Compression.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.FileSystem.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Net.Http.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Net.Sockets.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Reflection.Metadata.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.ValueTuple.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.XmlDocument.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.XPath.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\vbc.exe
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\vbc.exe.config
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\vbc.rsp
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\VBCSCompiler.exe
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\VBCSCompiler.exe.config
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Antlr3.Runtime.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.SqlServer.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\EPPlus.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Core.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Cookies.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Facebook.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Google.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.OAuth.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Twitter.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Web.Infrastructure.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Newtonsoft.Json.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\NLog.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Owin.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.Mvc.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.IO.Packaging.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Net.Http.Formatting.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Helpers.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.WebHost.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Mvc.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Optimization.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Razor.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Deployment.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Razor.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebGrease.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\EPPlus.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\NLog.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.Mvc.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Helpers.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Mvc.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Optimization.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Razor.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Deployment.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Razor.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Newtonsoft.Json.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Antlr3.Runtime.pdb
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Net.Http.Formatting.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.WebHost.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.SqlServer.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Core.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Facebook.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Cookies.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Google.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Twitter.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.OAuth.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.csproj.CoreCompileInputs.cache
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.csproj.CopyComplete
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.pdb
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.csproj.AssemblyReference.cache
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\CKFinder.dll
+D:\02_GitHub\12_BHDT_BASE\BHDT_BASE\WebBHDTCHUNG\WebBHDTCHUNG\bin\CKFinder.pdb
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebBHDTCHUNG.dll.config
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebBHDTCHUNG.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebBHDTCHUNG.pdb
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csc.exe
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csc.exe.config
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csc.rsp
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csi.exe
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csi.exe.config
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csi.rsp
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.Managed.Core.targets
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.AppContext.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Collections.Immutable.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Console.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Globalization.Calendars.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.Compression.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.FileSystem.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Net.Http.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Net.Sockets.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Reflection.Metadata.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.ValueTuple.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.XmlDocument.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.XPath.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\vbc.exe
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\vbc.exe.config
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\vbc.rsp
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\VBCSCompiler.exe
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\VBCSCompiler.exe.config
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Antlr3.Runtime.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\CKFinder.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.SqlServer.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\EPPlus.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Core.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Cookies.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Facebook.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Google.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.OAuth.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Twitter.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Web.Infrastructure.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Newtonsoft.Json.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\NLog.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Owin.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.Mvc.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.IO.Packaging.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Net.Http.Formatting.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Helpers.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.WebHost.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Mvc.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Optimization.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Razor.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Deployment.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Razor.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebGrease.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\CKFinder.pdb
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\EPPlus.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\NLog.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.Mvc.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Helpers.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Mvc.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Optimization.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Razor.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Deployment.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Razor.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Newtonsoft.Json.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Antlr3.Runtime.pdb
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Net.Http.Formatting.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.WebHost.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.SqlServer.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Core.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Facebook.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Cookies.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Google.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Twitter.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.OAuth.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.csprojAssemblyReference.cache
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.csproj.CoreCompileInputs.cache
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.csproj.CopyComplete
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.dll
+E:\github\bhdt_chung\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.pdb
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebBHDTCHUNG.dll.config
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebBHDTCHUNG.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebBHDTCHUNG.pdb
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csc.exe
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csc.exe.config
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csc.rsp
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csi.exe
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csi.exe.config
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\csi.rsp
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.AppContext.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Collections.Immutable.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Console.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Globalization.Calendars.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.Compression.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.FileSystem.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Net.Http.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Net.Sockets.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Reflection.Metadata.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.ValueTuple.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.XPath.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\vbc.exe
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\vbc.exe.config
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\vbc.rsp
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\VBCSCompiler.exe
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\roslyn\VBCSCompiler.exe.config
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Antlr3.Runtime.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\CKFinder.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.SqlServer.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\EPPlus.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Google.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Web.Infrastructure.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Newtonsoft.Json.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\NLog.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Owin.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.Mvc.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.IO.Packaging.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Net.Http.Formatting.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Helpers.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.WebHost.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Mvc.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Optimization.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Razor.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Deployment.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Razor.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\WebGrease.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\CKFinder.pdb
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\EPPlus.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\NLog.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\PagedList.Mvc.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Helpers.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Mvc.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Optimization.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Razor.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Deployment.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.WebPages.Razor.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Newtonsoft.Json.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Antlr3.Runtime.pdb
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Net.Http.Formatting.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\System.Web.Http.WebHost.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\EntityFramework.SqlServer.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Google.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.csproj.AssemblyReference.cache
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.csproj.CoreCompileInputs.cache
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.csproj.CopyComplete
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.dll
+D:\BHDTCHUNG\WebBHDTCHUNG\WebBHDTCHUNG\obj\Release\WebBHDTCHUNG.pdb

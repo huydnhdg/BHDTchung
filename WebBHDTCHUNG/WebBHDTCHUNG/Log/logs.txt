@@ -1,0 +1,3 @@
+2021-06-09 11:03:11.3685 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-06-09 11:03:11.4652 WebBHDTCHUNG.Controllers.HomeController 
+2021-06-09 11:12:38.4413 WebBHDTCHUNG.ReceviceMo.ApiReceviceController BHDT    BHDT CA TC ABC

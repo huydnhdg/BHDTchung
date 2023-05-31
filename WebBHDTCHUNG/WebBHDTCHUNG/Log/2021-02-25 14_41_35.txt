@@ -1,0 +1,2 @@
+2021-02-25 14:41:35.6394 WebBHDTCHUNG.Controllers.HomeController ::1
+2021-02-25 14:41:35.7044 WebBHDTCHUNG.Controllers.HomeController c424bf35-f2cf-40c9-9b15-c490c00a23d9

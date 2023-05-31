@@ -1,0 +1,6 @@
+2020-12-23 09:59:39.9108 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-12-23 09:59:39.9528 WebBHDTCHUNG.Controllers.HomeController c424bf35-f2cf-40c9-9b15-c490c00a23d9
+2020-12-30 15:31:32.1939 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-12-30 15:31:32.2808 WebBHDTCHUNG.Controllers.HomeController 
+2020-12-30 15:34:02.8268 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-12-30 15:34:02.9328 WebBHDTCHUNG.Controllers.HomeController 8b872a17-1966-4f1d-a293-84ee7a181a51

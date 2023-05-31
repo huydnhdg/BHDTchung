@@ -1,0 +1,44 @@
+2022-01-04 17:39:46.1841 WebBHDTCHUNG.Controllers.HomeController ::1
+2022-01-04 17:39:46.3880 WebBHDTCHUNG.Controllers.HomeController 
+2022-01-04 18:18:41.7597 WebBHDTCHUNG.Controllers.HomeController ::1
+2022-01-04 18:18:41.8097 WebBHDTCHUNG.Controllers.HomeController 
+2022-05-07 11:24:31.6381 WebBHDTCHUNG.Controllers.HomeController ::1
+2022-05-07 11:24:31.6701 WebBHDTCHUNG.Controllers.HomeController 8b872a17-1966-4f1d-a293-84ee7a181a51
+2022-05-07 11:24:49.6445 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":[""],"Status":1,"Message":"OK"}
+2022-05-07 11:24:59.4113 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":[""],"Status":1,"Message":"OK"}
+2022-05-07 11:25:58.8799 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":[""],"Status":1,"Message":"OK"}
+2022-05-07 11:26:50.4820 WebBHDTCHUNG.Controllers.HomeController ::1
+2022-05-07 11:26:50.5259 WebBHDTCHUNG.Controllers.HomeController 
+2022-05-07 11:28:00.2958 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":[""],"Status":1,"Message":"OK"}
+2022-05-07 11:28:50.8993 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":[""],"Status":1,"Message":"OK"}
+2022-05-07 11:30:28.1700 WebBHDTCHUNG.Controllers.HomeController ::1
+2022-05-07 11:30:28.2009 WebBHDTCHUNG.Controllers.HomeController 
+2022-05-07 11:31:17.9211 WebBHDTCHUNG.Controllers.HomeController ::1
+2022-05-07 11:31:17.9211 WebBHDTCHUNG.Controllers.HomeController 
+2022-05-07 11:31:37.4954 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":["https://baohanh.elmich.vn/"],"Status":1,"Message":"OK"}
+2022-05-07 11:31:48.2209 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":["http://web04.topteen.vn/"],"Status":1,"Message":"OK"}
+2022-05-07 11:32:06.0307 WebBHDTCHUNG.Controllers.HomeController ::1
+2022-05-07 11:32:06.0627 WebBHDTCHUNG.Controllers.HomeController 8b872a17-1966-4f1d-a293-84ee7a181a51
+2022-05-07 11:32:15.2295 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":[""],"Status":1,"Message":"OK"}
+2022-05-07 11:32:25.1182 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":[""],"Status":1,"Message":"OK"}
+2022-05-07 11:32:38.9929 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":[""],"Status":1,"Message":"OK"}
+2022-05-07 11:32:46.3767 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":["http://web04.topteen.vn/"],"Status":1,"Message":"OK"}
+2022-05-07 11:37:03.2583 WebBHDTCHUNG.Controllers.HomeController ::1
+2022-05-07 11:37:03.2912 WebBHDTCHUNG.Controllers.HomeController 8b872a17-1966-4f1d-a293-84ee7a181a51
+2022-05-07 11:37:18.3813 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":["https://baohanh.elmich.vn/"],"Status":1,"Message":"OK"}
+2022-05-07 11:51:55.6358 WebBHDTCHUNG.Controllers.HomeController ::1
+2022-05-07 11:51:55.6678 WebBHDTCHUNG.Controllers.HomeController 8b872a17-1966-4f1d-a293-84ee7a181a51
+2022-05-07 11:52:06.5339 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":[""],"Status":1,"Message":"OK"}
+2022-05-07 11:52:11.3974 WebBHDTCHUNG.APP_Backend.PartnerDomainController {"Data":["https://baohanh.elmich.vn/"],"Status":1,"Message":"OK"}
+2023-04-13 08:57:00.3114 WebBHDTCHUNG.Controllers.HomeController ::1
+2023-04-13 08:57:00.4373 WebBHDTCHUNG.Controllers.HomeController 
+2023-04-13 09:25:40.1185 WebBHDTCHUNG.Controllers.HomeController ::1
+2023-04-13 09:25:40.1875 WebBHDTCHUNG.Controllers.HomeController 517e5486-cb22-4b7f-a398-99ed96e32231
+2023-04-13 09:28:28.6932 WebBHDTCHUNG.Controllers.HomeController ::1
+2023-04-13 09:28:28.7731 WebBHDTCHUNG.Controllers.HomeController 517e5486-cb22-4b7f-a398-99ed96e32231
+2023-04-13 09:29:11.3489 WebBHDTCHUNG.Controllers.HomeController ::1
+2023-04-13 09:29:11.4160 WebBHDTCHUNG.Controllers.HomeController 517e5486-cb22-4b7f-a398-99ed96e32231
+2023-04-18 08:02:51.0358 WebBHDTCHUNG.Controllers.HomeController ::1
+2023-04-18 08:02:51.4205 WebBHDTCHUNG.Controllers.HomeController 
+2023-04-18 08:06:38.2752 WebBHDTCHUNG.Controllers.HomeController ::1
+2023-04-18 08:06:38.2752 WebBHDTCHUNG.Controllers.HomeController 4dfd24f4-4332-4670-bc74-d537e6c4d6ed
